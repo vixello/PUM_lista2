@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">lista_2</string>
+    <string name="iv_desc">image of the institutestring</string>
+    <string name="title_placeholder">Crime #1</string>
+    <string name="crime_placeholder">crimestring</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="crime_list">Lista przewinień</string>
+    <string name="crime">crime</string>
+    <string name="solvedcrime">solvedCrime</string>
+
+
+    <string-array name="crime_titles">
+    <item>Institute of Astronomy</item>
+    <item>Institute of Experimental Physics</item>
+    <item>Institute of Theoretical Physics</item>
+    <item>Library</item>
+    </string-array>
+
+    <string-array name="crime_info">
+    <item>Welcome to Institute of Astronomy!</item>
+    <item>Welcome to Institute of Experimental Physics!</item>
+    <item>Welcome to Institute of Theoretical Physics!</item>
+    <item>Welcome to Library!</item>
+    </string-array>
+
+
+    <array name="crime_images">
+    <item>@drawable/solved_ornot</item>
+
+    </array>
+</resources>
